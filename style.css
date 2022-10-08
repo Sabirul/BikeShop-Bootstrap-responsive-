@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    /* font-color: #E0E0E0; */
+}
+.bg-color{
+    background-color: #264653;
+    
+}
+
+.bike-size{
+    height: 243px;
+    width: 288px;
+}
+.orange{
+    color: orangered;
+}
+
+.faq-pic-size{
+    width: 330px;
+    
+
+}
+
+.faq-size{
+    width: 552px;
+
+}
